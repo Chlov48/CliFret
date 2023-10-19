@@ -47,7 +47,10 @@ int main() {
     }
 
     wcout << "CliFret © 2023 by Chloe CHATEAU@Polytech-Saclay is licensed under CC BY-NC-SA 4.0" << endl;
-    wcout << "Sur une idée de Nathan BECKER@Lycee-Fernand-Leger" << endl;
+    wcout << "Sur une idee de Nathan BECKER@Lycee-Fernand-Leger" << endl;
+    wcout << "" << endl;
+    wcout << "https://github.com/Chlov48/CliFret for update and source-code" << endl;
+
 
     for (int i = 1; i <= 2; i++) {
         cout << endl;
